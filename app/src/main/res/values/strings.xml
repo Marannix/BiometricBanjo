@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BiometricBanjo</string>
+
+    <!-- Login -->
+    <string name="username_placeholder">Username</string>
+    <string name="password_placeholder">Password</string>
+    <string name="login">Login</string>
+    <string name="login_with_biometric">Login with biometric</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="sign_in_error_message">Sorry, your username password doesn\'t look quite right. Please check you have entered them correctly</string>
+
+    <!-- Prompt Info -->
+    <string name="prompt_title_enroll_token">Enable Biometric Login?</string>
+    <string name="prompt_subtitle_enroll_token">Authenticate yourself to enroll your credential</string>
+    <string name="prompt_cancel">Cancel</string>
+    <string name="prompt_title_login">Log in</string>
+    <string name="prompt_subtitle_login">Confirm biometric to continue</string>
+
+    <string name="error_generic">Ops, something went wrong</string>
+    <string name="error_key_permanently_invalidated">A new enrollment is required</string>
+    <string name="error_key_init_fail">Unable to initiate biometric operation</string>
+    <string name="error_username_password_required">Username and password required</string>
+
+    <string name="log_out">Log out</string>
+</resources>
