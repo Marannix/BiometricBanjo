@@ -15,9 +15,8 @@ Libraries used:
 
 | Login | Login with Biometric | 
 | --- | --- |
-|![Screenshot_1695127154](https://github.com/Marannix/BiometricBanjo/assets/15348446/eb23bc07-10a3-4051-8558-d77bc1515dd3)| ![Screenshot_1695127134](https://github.com/Marannix/BiometricBanjo/assets/15348446/e45dfc76-a8ea-49d6-8974-b6f7ee2fc120)|
+|![Screenshot_1695127154](https://github.com/Marannix/BiometricBanjo/assets/15348446/eb23bc07-10a3-4051-8558-d77bc1515dd3)|![Screenshot_1695127134](https://github.com/Marannix/BiometricBanjo/assets/15348446/e45dfc76-a8ea-49d6-8974-b6f7ee2fc120)|
 
 | Biometric | Home |
 | --- | --- |
-|![Screenshot_1695127130](https://github.com/Marannix/BiometricBanjo/assets/15348446/6e486472-f0ab-475d-bb3f-3026c539edb1)|
-![Screenshot_1695127139](https://github.com/Marannix/BiometricBanjo/assets/15348446/aac85ae2-d483-45d3-9f12-05b988c26968)|
+|![Screenshot_1695127130](https://github.com/Marannix/BiometricBanjo/assets/15348446/6e486472-f0ab-475d-bb3f-3026c539edb1)|![Screenshot_1695127139](https://github.com/Marannix/BiometricBanjo/assets/15348446/aac85ae2-d483-45d3-9f12-05b988c26968)|
