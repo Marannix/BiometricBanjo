@@ -7,6 +7,8 @@ Project: https://github.com/EnricoMazzu/biometric-app?source=post_page-----146ee
 
 Disclaimer: I'd recommend using android biometric tutorial for a better understanding of biometric. Use the medium article as a way to enchance your knowledge after understanding the fundamentals. 
 
+This project is built on fake mock and doesn't use real data (apart from biometric). Sign in is fake and doesn't persist. This work was done as part of innovation.
+
 Libraries used:
  - Compose (UI)
  - Hilt (Dependency Injection)
